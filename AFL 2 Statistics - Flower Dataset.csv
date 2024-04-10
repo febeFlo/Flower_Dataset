@@ -1,0 +1,121 @@
+Types,Species,Color,Shape,Petal_Length,Petal_Width,Sepal_Length,Sepal_Width,Price(IDR),Popularity(%)
+Orchid,Dendrobium nobile,Purple,Bilobed,8,2.5,10,3,150000,87
+Orchid,Phalaenopsis amabilis,White,Rounded,5,3,6,2.5,200000,93
+Orchid,Cattleya labiata,Pink,Labellate,7.5,4,8,3.5,175000,78
+Orchid,Vanda coerulea,Blue,Star-shaped,6,2.8,7,2,160000,82
+Orchid,Oncidium varicosum,Yellow,Butterfly-shaped,3.5,2,4,1.5,120000,76
+Orchid,Cymbidium aloifolium,Yellow,Boat-shaped,5,1.8,6,2,110000,80
+Orchid,Miltonia spectabilis,Lavender,Flat-faced,7.5,3.5,8,2.8,190000,85
+Orchid,Laelia anceps,Purple,Star-shaped,6,2.5,7,2.5,180000,90
+Orchid,Brassavola nodosa,White,Narrow,9,2,10,2.2,210000,95
+Orchid,Paphiopedilum insigne,Green and White,Slipper-shaped,8,4,9,3,220000,89
+Orchid,Phaius tankervilleae,Brown and Yellow,Cup-shaped,10,5,11,4,250000,92
+Orchid,Coelogyne cristata,White,Cascade,6,3,7,2.5,130000,77
+Orchid,Encyclia cochleata,Green and Purple,Octopus-like,4,2,5,1.5,140000,79
+Orchid,Bulbophyllum echinolabium,Red,Whorled,12,6,13,5.5,260000,88
+Orchid,Cattleya walkeriana,Pink,Ruffled,7,4,8,3.5,165000,81
+Orchid,Aerangis citrata,White,Star-shaped,3.5,2,4,1.8,100000,75
+Orchid,Vanilla planifolia,Yellow,Trumpet-shaped,5,1.5,6,1.8,105000,74
+Orchid,Zygopetalum mackayi,Blue and Green,Striped,8,3.5,9,3,230000,91
+Orchid,Odontoglossum crispum,White and Red,Spotted,6,2.8,7,2.3,170000,84
+Orchid,Masdevallia veitchiana,Orange,Conical,4,3,5,2,115000,73
+Orchid,Psychopsis papilio,Yellow and Brown,Butterfly-shaped,7,3,8,2.5,195000,86
+Orchid,Dendrobium kingianum,Pink,Compact,3,1.5,4,1.2,90000,70
+Orchid,Angraecum sesquipedale,White,Star-shaped,12,5,13,4.5,270000,94
+Orchid,Epidendrum radicans,Orange,Clustered,4,1.8,5,1.5,95000,71
+Orchid,Catasetum fimbriatum,Green,Helmet-shaped,9,4,10,3.5,240000,83
+Orchid,Sobralia decora,Purple,Tall,11,4.5,12,4,280000,96
+Orchid,Cyrtopodium punctatum,Yellow and Red,Spotted,6,2.5,7,2,150000,87
+Orchid,Disa uniflora,Red,Tubular,5,2,6,1.8,125000,76
+Orchid,Grammatophyllum scriptum,Brown and Yellow,Leopard-like,10,5,11,4.5,255000,90
+Orchid,Maxillaria tenuifolia,Red,Bowl-shaped,4,2,5,1.5,98000,72
+Rose,Peace,Yellow,Hybrid Tea,6.2,3.1,5.8,2.5,200000,90
+Rose,Mister Lincoln,Red,Hybrid Tea,7.5,4,6,2.8,250000,85
+Rose,Double Delight,Red and White,Hybrid Tea,7,3.5,6.5,3,230000,88
+Rose,Iceberg,White,Floribunda,4.5,2.3,5,1.8,180000,92
+Rose,Queen Elizabeth,Pink,Grandiflora,6,3,5.5,2.2,220000,87
+Rose,Ausmas,Yellow,English Rose,7.8,4.2,6.4,3.1,260000,83
+Rose,The Fairy,Pink,Polyantha,3.5,1.8,4,1.5,150000,95
+Rose,Climbing Cecile Brunner,Pink,Climbing Polyantha,4,2,4.5,1.7,160000,93
+Rose,Werkplatz,Russet,Floribunda,6.5,3.3,5.9,2.6,210000,86
+Rose,Wakiso Blip,Lavender,Grandiflora,7.2,3.8,6.7,3.2,240000,84
+Rose,Ausland,Pink,English Rose,5.9,3,5.4,2.1,190000,91
+Rose,Scrivluv,Yellow,Miniature,3,1.5,3.5,1.2,140000,96
+Rose,Radrazz,Red,Shrub,5,2.5,4.5,2,170000,94
+Rose,Red Sunset,Yellow,Climbing,6.3,3.2,5.7,2.4,200000,89
+Rose,Meicoublan,White,Groundcover,4.2,2.1,4.7,1.9,175000,90
+Rose,Chrysler Imperial,Deep Red,Hybrid Tea,7,3.5,6,2.5,250000,85
+Rose,Tropicana,Orange,Hybrid Tea,6.5,3.2,5.5,2.3,220000,87
+Rose,Angel Face,Lavender,Floribunda,5.5,2.8,4.5,2,180000,92
+Rose,Sterling Silver,Silver-Lilac,Hybrid Tea,6,3,5,2.2,210000,86
+Rose,Garden Party,White and Yellow,Hybrid Tea,6,3,5,2.2,200000,89
+Rose,Julia Child,Butter Gold,Floribunda,4,2,4.5,1.8,160000,93
+Rose,Black Magic,Dark Red,Hybrid Tea,7.5,4,6.5,3,270000,82
+Rose,Pascali,White,Hybrid Tea,5.8,2.9,5.3,2.1,190000,91
+Rose,Blue Girl ,Lavender,Hybrid Tea,6.2,3.1,5.8,2.5,200000,90
+Rose,Sedona,Coral,Hybrid Tea,7,3.5,6,2.5,230000,88
+Rose,Brandy,Apricot,Hybrid Tea,6.5,3.2,5.5,2.3,220000,87
+Rose,Sunset Celebration,Peachy Apricot,Hybrid Tea,5.5,2.8,4.5,2,180000,92
+Rose,Neptune,Lavender,Hybrid Tea,6,3,5,2.2,210000,86
+Rose,Pope John Paul II,White,Hybrid Tea,6.3,3.1,5.7,2.4,200000,89
+Rose,Dolly Parton ,Orange-Red,Hybrid Tea,7.5,4,6.5,3,270000,82
+Tulip,Queen of Night,Black,Single Late,6,3,6,2.5,250000,92
+Tulip,Angelique,Pink,Double Late,5.5,2.5,5.5,2,200000,89
+Tulip,Ballade,Purple,Lily-flowered,7,3.5,6,3,220000,87
+Tulip,Acropolis,Rosy-Pink,Double Early,6.5,3.2,6.5,2.8,230000,90
+Tulip,Apricot Parrot,Apricot-Pink,Parrot,8,4,7,3.5,260000,85
+Tulip,Turkestanica,White and Red,Species,4.5,2.3,5,2,180000,88
+Tulip,Tubergen’s Gem,Red and Yellow,Kaufmanniana,5,2.5,5,2,190000,86
+Tulip,Kolpakowskiana,Yellow,Species,4,2,4.5,1.8,170000,84
+Tulip,Cape Cod,Yellow and Red,Triumph,6,3,6,2.5,210000,91
+Tulip,Casa Grande,Red,Giant Darwin Hybrid,7.5,4,7,3.5,240000,83
+Tulip,Compostela,Orange,Lily-flowered,6.5,3.2,6,3,225000,90
+Tulip,Candy Prince,Soft Lilac,Single Early,5,2.5,5.5,2.2,195000,87
+Tulip,Burgundy Lace,Burgundy,Fringed,7,3.5,6.5,3,215000,88
+Tulip,Christmas Dream,Pink,Single Early,5.5,2.8,5,2.3,205000,86
+Tulip,Clearwater,White,Double Late,6,3,6,2.5,220000,89
+Tulip,Cummins,Purple and White,Fringed,7.5,3.8,7,3.2,245000,84
+Tulip,Davenport,Red and Yellow,Triumph,6,3,6,2.5,210000,91
+Tulip,Daydream,Orange,Single Late,6.5,3.2,6.5,2.8,230000,93
+Tulip,Don Quichotte,Pink,Triumph,5,2.5,5.5,2.2,200000,85
+Tulip,Dreamland,White and Pink,Triumph,7,3.5,6.5,3,235000,92
+Tulip,Dynasty,Pink,Single Early,5.5,2.8,5,2.3,205000,87
+Tulip,Elegant Lady,Yellow and Pink,Lily-flowered,6,3,6,2.5,215000,90
+Tulip,Estella Rijnveld,Red and White,Parrot,7.5,3.8,7,3.2,250000,88
+Tulip,Flaming Parrot,Yellow and Red,Parrot,6,3,6,2.5,220000,89
+Tulip,Fosteriana,Orange,Single Early,6.5,3.2,6.5,2.8,230000,91
+Tulip,Gavota,Maroon and Yellow,Triumph,5,2.5,5.5,2.2,200000,86
+Tulip,Golden Parade,Yellow,Darwin Hybrid,7,3.5,6.5,3,240000,93
+Tulip,Groenland,Green and Pink,Viridiflora,5.5,2.8,5,2.3,210000,87
+Tulip,Holland Chic,White and Red,Double Late,6,3,6,2.5,215000,88
+Tulip,Ile de France,Red,Single Late,7.5,3.8,7,3.2,255000,85
+Lily,Stargazer,Pink and White,Trumpet,15,5,13,3.5,300000,95
+Lily,Casa Blanca,White,Oriental,17,6,15,4,350000,90
+Lily,Connecticut King,Yellow,Asiatic,12,4,10,3,250000,85
+Lily,Black Beauty,Burgundy,Recurved,14,4.5,12,3.2,320000,88
+Lily,Golden Splendor,Yellow,Trumpet,18,6.5,16,4.5,370000,92
+Lily,Pink Perfection,Pink,Trumpet,16,5.5,14,4,340000,89
+Lily,Martagon,Purple,Turk's cap,10,3,8,2.5,220000,80
+Lily,Canadense,Orange,Canada,13,4.2,11,3.5,280000,87
+Lily,Pardalinum,Red,Leopard,12,4,10,3,260000,83
+Lily,Lancifolium,Orange,Tiger,11,3.5,9,2.8,240000,81
+Lily,Candidum,White,Madonna,15,5,13,3.5,310000,94
+Lily,Speciosum,Pink ,Oriental,14,4.5,12,3.2,320000,88
+Lily,Auratum,Gold,Golden-rayed,17,6,15,4,360000,91
+Lily,Henryi,Orange,Henry's ,13,4.2,11,3.5,290000,86
+Lily,Longiflorum,White,Easter,18,6.5,16,4.5,380000,93
+Lily,Bulbiferum,Orange,Fire,12,4,10,3,270000,84
+Lily,Enchantment,Orange,Enchantment,11,3.5,9,2.8,260000,82
+Lily,Connecticut King,Yellow,Connecticut King,13,4.2,11,3.5,290000,86
+Lily,Roma,White,Dwarf Asiatic,10,3,8,2.5,230000,79
+Lily,Orange Pixie,Orange,Pixie,12,4,10,3,270000,84
+Lily,Denia,Pink,Pixie,11,3.5,9,2.8,250000,81
+Lily,Marhan,Purple,Martagon Hybrid,13,4.2,11,3.5,300000,85
+Lily,Bellingham,Red,American Hybrid,14,4.5,12,3.2,330000,89
+Lily,Cherrywood,Red,American Hybrid,15,5,13,3.5,350000,90
+Lily,White American,White,Longiflorum Hybrid,16,5.5,14,4,360000,91
+Lily,African Queen,Orange,Trumpet Hybrid,17,6,15,4.5,370000,92
+Lily,Golden Splendor,Yellow,Trumpet Hybrid,18,6.5,16,4.5,390000,93
+Lily,Pink Perfection,Pink,Trumpet Hybrid,16,5.5,14,4,360000,91
+Lily,Bright Star,Yellow,Trumpet Hybrid,15,5,13,3.5,340000,89
+Lily,Acapulco,Pink,Oriental Hybrid,14,4.5,12,3.2,330000,88
